@@ -1,0 +1,5 @@
+DAY1:
+https://www.kaggle.com/c/auo-small-data-fungi-day1
+
+DAY3:
+https://www.kaggle.com/t/67226e486f784e16bee2ce84ad44c179
